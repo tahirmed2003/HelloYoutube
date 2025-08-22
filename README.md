@@ -13,9 +13,9 @@ Supports multiple formats (MP4, MP3, etc.), quality selection, and batch downloa
 
 ### Installation
 
-Clone this repository:
-git clone https://github.com/tahirmed2003/HelloYoutube
-cd HelloYoutube
+* Clone this repository:
+* git clone https://github.com/tahirmed2003/HelloYoutube
+* cd HelloYoutube
 
 ## Install dependencies:
 # windowds :
@@ -33,16 +33,16 @@ cd HelloYoutube
 just run the app.py  and you will see the app interface 
 
 ### Project Structure
-Helloyoutube/
-│── app.py        # Main script
-│── requirements.txt     # Python dependencies
-│── icon.ico          # app logo
-│── README.md            # Documentation
+* Helloyoutube/
+* │── app.py        # Main script
+* │── requirements.txt     # Python dependencies
+* │── icon.ico          # app logo
+* │── README.md            # Documentation
 
 ### Legal Disclaimer
 
-This project is intended for personal use only.
-Downloading copyrighted material without permission may violate YouTube’s Terms of Service and copyright laws in your country.
-Use responsibly.
+* This project is intended for personal use only.
+* Downloading copyrighted material without permission may violate YouTube’s Terms of Service and copyright laws in your country.
+* Use responsibly.
 
 ##### Tahir med ####
