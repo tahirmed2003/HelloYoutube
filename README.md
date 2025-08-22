@@ -1,4 +1,5 @@
 #### YouTube Playlist & Video Downloader
+### Free palastine ###
 
 A simple yet powerful tool for downloading individual YouTube videos or entire playlists.
 Supports multiple formats (MP4, MP3, etc.), quality selection, and batch downloading.
